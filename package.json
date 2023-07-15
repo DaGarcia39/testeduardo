@@ -1,7 +1,7 @@
 {
   "name": "final-project",
   "version": "0.1.0",
-  "homepage": "http://DaGarcia39.github.io/pokedexapi-react-main",
+  "homepage": "http://DaGarcia39.github.io/testeduardo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
